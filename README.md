@@ -1,6 +1,6 @@
 
 # chess using chessground you can aslo change the figures!
-
+![alt text](https://imgur.com/a/r8bV3zs)
 ## changing the figures 
 in the folder called
 ```
@@ -28,3 +28,4 @@ for this project you will need to use the chessground library
 npm install chessground
 ```
 
+##NO CHESS LOGIC
