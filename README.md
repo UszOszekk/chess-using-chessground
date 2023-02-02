@@ -1,7 +1,7 @@
 
-#chess using chessground you can aslo change the figures!
+# chess using chessground you can aslo change the figures!
 
-##changing the figures 
+## changing the figures 
 in the folder called
 ```
 /pionki
@@ -20,7 +20,7 @@ N = knight
 ect.
 
 
-#instaling
+# instaling
 
 for this project you will need to use the chessground library
 
