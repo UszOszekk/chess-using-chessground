@@ -1,6 +1,6 @@
 
 
-# chess using chessground you can aslo change the figures!
+# chess using chessground, you can aslo change the figures!
 
 ![Chessboard Example](https://user-images.githubusercontent.com/92518862/216472390-3020c2c1-bcc2-4311-9cb7-7a40bb75a7e1.png)
 
